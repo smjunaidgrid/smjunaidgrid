@@ -102,15 +102,9 @@ Docker • Git • GitHub Actions • Linux
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smjunaidgrid&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smjunaidgrid&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
 <p align="center">
-Learning, building, and growing as a software engineer.
+Learning, building and growing as a software engineer.
 </p>
