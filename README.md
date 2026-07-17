@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Python Full Stack Intern @ Grid Dynamics</b><br>
-  January 2026 – Present
+  January 2026 – July 2026
 </p>
 
 <p align="center">
